@@ -225,7 +225,7 @@ document.addEventListener('DOMContentLoaded', function() {
             // Mensaje especial
             const mensajeEspecial = document.createElement('div');
             mensajeEspecial.className = 'mensaje-especial';
-            mensajeEspecial.textContent = '¡Zorionak! Has encontrado 5 ingredientes secretos. ¡Idaira estaría orgullosa de ti! Me la ssssssssssube';
+            mensajeEspecial.textContent = '¡Zorionak! Has encontrado 5 ingredientes secretos. ¡Idaira estaría orgullosa de ti! Me la ssssssssssubes';
             mensajeEspecial.style.position = 'fixed';
             mensajeEspecial.style.top = '50%';
             mensajeEspecial.style.left = '50%';
